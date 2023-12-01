@@ -113,6 +113,37 @@ I chose to host my application on Vercel, a popular cloud hosting platform for w
 
 The Link of my project is :-> [live Link](https://quick-converter.vercel.app/)
 
-## My project images for all screen sizes.
+## My project features through image.
+
+![1](https://github.com/Vivek4551/Quick-Converter/assets/77227718/8a735cdb-1028-4a66-a928-534e3b62b172)
+
+-> If inputs are empty it will show a mesage using toast
+
+<img width="1332" alt="2" src="https://github.com/Vivek4551/Quick-Converter/assets/77227718/86271a64-0aee-4742-99ce-e20446481907">
+
+-> Conversion from INR to Other
+
+![3](https://github.com/Vivek4551/Quick-Converter/assets/77227718/2cc97b0e-55e4-4dec-b1c8-fcd6f0896919)
+
+-> Conversion from other to INR (Specifically)
+
+![4](https://github.com/Vivek4551/Quick-Converter/assets/77227718/69b284ca-7667-42cc-a280-633f0d982867)
+
+![5](https://github.com/Vivek4551/Quick-Converter/assets/77227718/0cc1a86b-3e70-48c2-b322-ed5b8b780cee)
+
+-> Responsiveness for different screen sizes
+
+<img width="600" alt="7" src="https://github.com/Vivek4551/Quick-Converter/assets/77227718/530e8aca-875b-43b1-a15b-6c9c5f909f23">
+
+<img width="524" alt="8" src="https://github.com/Vivek4551/Quick-Converter/assets/77227718/6f67a836-4319-4d98-9141-bce27e230150">
+
+<img width="531" alt="9" src="https://github.com/Vivek4551/Quick-Converter/assets/77227718/ea9f8620-749e-4ecf-a8a3-d8aa621f9188">
+
+
+
+
+
+
+
 
 
