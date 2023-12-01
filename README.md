@@ -33,7 +33,7 @@ You may also see any lint errors in the console.
 
 # Live Project Link
 
-Click here to check the hosted website - [Hosted Link](https://rate-rocket.vercel.app/)
+Click here to check the hosted website - [Hosted Link](https://quick-converter.vercel.app/)
 
 ## Library Used
 
