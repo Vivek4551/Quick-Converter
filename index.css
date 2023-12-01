@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background: rgb(40,37,89);
+    background: linear-gradient(90deg, rgba(40,37,89,1) 0%, rgba(80,80,163,1) 39%, rgba(4,109,130,1) 100%);
+    font-family: 'Merriweather', serif;
+}
