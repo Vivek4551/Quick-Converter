@@ -76,7 +76,7 @@ The goal of this project is to create a simple currency converter react app that
 
 ## API USED
 
-click here to go the documentation -> [Currency Layer](https://currencylayer.com/documentation)
+click here to go the documentation -> [Currency Layer](https://quick-converter.vercel.app/)
 
 
 ### App Architecture
@@ -111,7 +111,7 @@ For creating the given sample profile, I divided my project into Four sections -
 
 I chose to host my application on Vercel, a popular cloud hosting platform for web applications. The reason behind choosing this platfrom is that Vercel is easy to use and the deployment process is straightforward, and it's incredibly fast to get your application up and running. It allowed me to focus on delivering a great user experience.
 
-The link for my project is :- [clickk here !!](https://rate-rocket.vercel.app/)
+The link for my project is :- [clickk here !!](https://quick-converter.vercel.app/)
 
 ## My project images for all screen sizes.
 
